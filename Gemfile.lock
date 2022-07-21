@@ -106,7 +106,7 @@ GEM
     thread_safe (0.3.5)
     tilt (2.0.1)
     timers (1.1.0)
-    tzinfo (0.3.44)
+    tzinfo (0.3.61)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.1)
